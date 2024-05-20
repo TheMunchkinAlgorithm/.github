@@ -1,6 +1,6 @@
 # The Munchkin Algorithm
 
-![The Munchkin Algorithm Banner](https://via.placeholder.com/1200x400?text=The+Munchkin+Algorithm)
+![The Munchkin Algorithm Banner](profile/banner.gif)
 
 Welcome to **The Munchkin Algorithm** – a collective of creative coders passionate about merging art and technology. Our mission is to explore the fascinating world of generative art, sound engineering, and innovative algorithmic processes.
 
